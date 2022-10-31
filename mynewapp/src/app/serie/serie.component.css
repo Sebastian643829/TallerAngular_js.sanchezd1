@@ -1,0 +1,43 @@
+h1{
+  text-align: left;
+  font-family:arial;
+  color: black;
+  font-size: 24px;
+  font-weight: bold;
+  display:inline;
+}
+
+#encabezado{
+  background-color: #26B0BF;
+  margin: 20px#26B0BF;
+  border: 20px;
+}
+
+th{
+  text-align: center;
+  font-family:Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  font-weight: bolder;
+
+}
+
+td{
+  text-align: center;
+  font-family:Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  font-weight:lighter;
+  background-color: #F2F2F2;
+}
+
+h6{
+  display:inline;
+}
+
+img{
+  display:inline;
+}
+
+table{
+  margin:20px;
+}
+
